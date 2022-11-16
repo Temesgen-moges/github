@@ -1,3 +1,4 @@
 this is my first file in git class.echo
 This is my second line
 hi hi
+ethiopia
